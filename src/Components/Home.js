@@ -116,11 +116,11 @@ const Home = () => {
             </div>
           </div>
 
-          <div className="flex md:flex-row flex-col border-4 rounded-lg px-2 py-0">
-            <p className="md:text-left mt-4 text-3xl md:text-2xl md:text-red-600 md:w-1/3 ">
+          <div className="flex flex-col border-4 rounded-lg px-2 py-0 md:my-12 md:py-4">
+            <p className="mt-4 text-3xl md:text-2xl md:text-red-600">
               Completion Certificate
             </p>
-            <p className="md:text-left my-4 text-xl ">
+            <p className="my-4 text-xl">
               Upon successful completion of the workshop, participants will be
               awarded a certificate, showcasing their achievement and upskilling
               in the field of 3D printing

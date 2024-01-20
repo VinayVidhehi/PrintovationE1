@@ -1,0 +1,21 @@
+#box {
+    /* font-size: 200px; */
+    animation: rotate 5s infinite linear;
+    /* font-weight: 100;
+color: #fff;
+border: 2px solid black; */
+  }
+
+  #bbox{
+    font-weight: 100;
+  }
+
+  @keyframes rotate {
+    0% {
+      transform: rotate(0deg);
+    }
+
+    100% {
+      transform: rotate(360deg);
+    }
+  }

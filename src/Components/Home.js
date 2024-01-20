@@ -171,9 +171,9 @@ const Home = () => {
               </div>
               <div className="px-4 md:px-2 py-2 flex flex-row justify-between items-center">
                 <h2 className="title-font font-medium text-lg text-gray-900">
-                  Dr. B G RAJKUMAR
+                  Dr. G R RAJKUMAR
                 </h2>
-                <p className="leading-relaxed text-red-500">+91 9844755956</p>
+                <p className="leading-relaxed text-red-500">+91 9739728089</p>
               </div>
               <div className="items-start mb-2 text-md">
                 Assistant Professor

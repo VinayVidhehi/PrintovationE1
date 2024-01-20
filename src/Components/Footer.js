@@ -12,6 +12,7 @@ const Footer = () => {
            R V College of Engineering
           </span>
         </div>
+        <Link to='https://dvwebdevelopers.netlify.app'><p>A website by DV Web Developers</p></Link>
       </footer>
     </div>
   );

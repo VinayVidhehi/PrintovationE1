@@ -157,7 +157,7 @@ const Home = () => {
       <section className="my-10">
         <h1 className="text-3xl my-3">Contact Us</h1>
         <div className="flex md:flex-row flex-col lg:w-5/6 m-auto w-full ">
-          <div className="md:p-4 sm:w-1/2 w-full mx-2 my-2">
+          <div className="md:p-4 sm:w-1/2 w-11/12 m-auto">
             <h2 className="md:mx-2 p-2 text-xl text-start">FACULTY ADVISORS</h2>
             <div className="border-2 border-gray-500 md:px-4 px-2 flex flex-col py-4">
               <div className="px-4 md:px-2 py-2 flex flex-row justify-between items-center">
@@ -181,7 +181,7 @@ const Home = () => {
             </div>
           </div>
 
-          <div className="md:p-4 sm:w-1/2 w-full mx-2 my-2">
+          <div className="md:p-4 sm:w-1/2 m-auto w-11/12">
             <h2 className="md:mx-2 p-2 text-xl text-start">
               STUDENT COORDINATORS
             </h2>

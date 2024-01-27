@@ -24,14 +24,14 @@ const Home = () => {
               A hands-on 3D printing experience and Contest
             </h1>
             <p className="mb-6 p-4 leading-relaxed border-2 border-white text-white text-xl">
-              please read the guidelines before registering to the contest
+              Stay tuned for Contests and weekly events. Get a chance to print your design every week*
             </p>
             <p className="mb-2 leading-relaxed text-white">
-              click here to register
+             Click here for week 1's event 
             </p>
             <div className="flex justify-center">
               <button className="inline-flex items-center bg-white border-0 py-2 px-5 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0">
-                <Link to="https://forms.gle/YmtCyFkmBVUTemXK9">Register</Link>
+                <Link to="/events">Know More</Link>
                 <svg
                   fill="none"
                   stroke="currentColor"
@@ -53,7 +53,7 @@ const Home = () => {
         <div>
           <h1 className="text-3xl my-8">Event details</h1>
           <p className="m-2 text-xl">venue: DTL Huddle</p>
-          <p className="m-2 text-xl">date: 27/01/2024</p>
+          <p className="m-2 text-xl">date: coming soon</p>
         </div>
         <div>
           <p className="m-3">

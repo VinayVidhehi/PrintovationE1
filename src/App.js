@@ -4,6 +4,7 @@ import { Route, Routes } from 'react-router';
 import Header from './Components/Header';
 import Home from './Components/Home';
 import Footer from './Components/Footer';
+import Events from './Components/Events';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Header />
       <Routes>
         <Route path='/' Component={Home} />
+        <Route path='/events' Component={Events} />
       </Routes>
       <Footer />
     </div>

@@ -126,7 +126,8 @@ const Home = () => {
               in the field of 3D printing
             </p>
           </div>
-          <div className="flex flex-col justify-center items-start text-xl">
+          {/* 
+             <div className="flex flex-col justify-center items-start text-xl">
             <h1 className="mb-4 mt-12 text-3xl px-4 py-2 ">
               Registration Details
             </h1>
@@ -143,7 +144,7 @@ const Home = () => {
                 Registration Deadline
               </p>
               <p className="text-center my-4 text-xl md:ml-2">
-                25th January 2024
+                (to be decided)
               </p>
             </div>
             <p className="mx-0 mt-12 text-center my-4 md:ml-2">
@@ -151,6 +152,7 @@ const Home = () => {
               Printovation Enchantment!
             </p>
           </div>
+          */}
         </div>
       </section>
 

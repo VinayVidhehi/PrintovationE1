@@ -135,7 +135,7 @@ const Home = () => {
                 Entry Fee
               </p>
               <p className="text-center my-4 md:ml-2 p-0">
-                300 rupees per team(max- 2 students per team)
+                295 rupees (250 rupees + GST) per team(max- 2 students per team)
               </p>
             </div>
             <div className="flex md:flex-row flex-col w-full">

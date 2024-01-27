@@ -13,7 +13,7 @@ const Footer = () => {
            R V College of Engineering
           </span>
         </div>
-        <Link to='https://dvwebdevelopers.netlify.app'><p>A website by VeD Developers</p></Link>
+        <Link to='https://vedwork.vercel.app/'><p>A website by VED Developers</p></Link>
       </footer>
     </div>
   );

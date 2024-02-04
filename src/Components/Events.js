@@ -34,7 +34,7 @@ const Events = () => {
                 
                
                 <p className='py-2 text-xl font-medium text-red-600 border-2 border-gray-400 m-4 md:mx-72'>
-                    Deadline: 04/02/2024, Sunday 11pm.
+                    Deadline: 11/02/2024, Sunday 11pm.
                 </p>
                 <p className='my-2 text-xl'>Submit your models here</p>
                 <Link to='https://forms.gle/nYCNpWLU8S1EN7ug6'><p className='px-4 py-2 m-auto bg-red-600 text-white w-1/3'>Submit</p></Link>

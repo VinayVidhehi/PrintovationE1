@@ -192,9 +192,9 @@ const Home = () => {
                 <h2 className="title-font font-medium text-lg text-gray-900 text-base">
                   VINEETH RAO
                 </h2>
-                <p className="leading-relaxed text-red-500">+91 8217684886</p>
+                <p className="leading-relaxed text-red-500">+91 9482465825</p>
               </div>
-              <div className="items-start mb-2 text-md">I Semester</div>
+              <div className="items-start mb-2 text-md">I Semester</div>ko
               <div className="px-4 md:px-2 py-2 flex flex-row justify-between items-center">
                 <h2 className="title-font font-medium text-lg text-gray-900">
                   KUNAL RATHODE

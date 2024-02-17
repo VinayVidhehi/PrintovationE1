@@ -1,6 +1,7 @@
 import React from 'react';
 import SDG from './Images/SDG.jpg';
 import { Link } from 'react-router-dom';
+import EventWinner from './EventWinner';
 
 const Events = () => {
   return (
@@ -12,15 +13,16 @@ const Events = () => {
         <main className='w-11/12 m-auto'> 
             <section>
                 <h1 className='text-2xl text-red-600 p-2 '>
-                    PrintoQuest W1
+                    PrintoQuest
                 </h1>
                 <p className='py-2 md:text-xl'>
                     A weekly event comprising of submitting a CAD design following any of the sustainable goals within the rules. One selected winner will get their model printed and a chance to be a member of Printinnovators and access to 3d printers*.
                 </p>
-                <p className='py-2 px-1 md:text-left mt-4 md:mt-12 md:text-xl'>
+                <EventWinner />
+                <p className='py-2 px-1 md:text-left mt-4 md:mt-12 font-semibold text-xl'>
                     Among all the submissions, the most innovative model will be selected and the same will be printed. Following are the rules regarding the event
                     </p>
-                    <ul className='list-disc'>
+                    <ul className='list-disc w-5/6 m-auto'>
                         <li className='py-2 font-medium text-left'>
                             The files should be submitted in .stl format only. Any other format is rejected straight away.
                         </li>
@@ -32,9 +34,9 @@ const Events = () => {
                         </li>
                     </ul>
                 
-               
+                <p className='my-8 md:my-12'>PrintoQuest W2 has started, start crafting now!</p>
                 <p className='py-2 text-xl font-medium text-red-600 border-2 border-gray-400 m-4 md:mx-72'>
-                    Deadline: 04/02/2024, Sunday 11pm.
+                    Deadline: 26/02/2024, Monday 11am.
                 </p>
                 <p className='my-2 text-xl'>Submit your models here</p>
                 <Link to='https://forms.gle/nYCNpWLU8S1EN7ug6'><p className='px-4 py-2 m-auto bg-red-600 text-white w-1/3'>Submit</p></Link>

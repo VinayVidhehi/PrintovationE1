@@ -20,19 +20,19 @@ const Events = () => {
             Printinnovators and access to 3d printers*.
           </p>
           <EventWinner />
-          <p className="py-2 px-1 md:text-left mt-4 md:mt-12 font-semibold text-xl">
+          <p className="py-4 px-1 text-center mt-12 md:mt-20 font text-xl">
             Among all the submissions, the most innovative model will be
             selected and the same will be printed. Following are the rules
             regarding the event
           </p>
-          <ul className="list-disc w-5/6 m-auto">
-            <li className="py-2 font-medium text-left">
-              The files should be submitted in .stl format only. Any other
-              format is rejected straight away.
-            </li>
+          
+            <p className="py-2 font-medium md:text-2xl text-xl text-center md:list-disc text-red-600">
+              Not familiar with CAD? Do not worry, submit your ideas in any format* below. It's the idea that matters, let your world of imagination glorify.
+            </p>
+            <ul className="list-disc w-5/6 m-auto">
             <li className="py-2 font-medium text-left">
               The maximum filament that your model can use is around 3 meters or
-              should not take a print time of more than 2 hours.
+              should not take a print time of more than 3 hours.
             </li>
             <li className="py-2 font-medium text-left">
               The model should be submitted with title as its name preceeded by
@@ -42,7 +42,7 @@ const Events = () => {
             </li>
           </ul>
 
-          <p className="my-8 md:my-12">
+          <p className="my-8 md:my-12 text-xl">
             PrintoQuest W2 has started, start crafting now!
           </p>
           <p className="py-2 text-xl font-medium text-red-600 border-2 border-gray-400 m-4 md:mx-72">

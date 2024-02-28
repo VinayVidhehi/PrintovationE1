@@ -27,7 +27,7 @@ const Home = () => {
               Stay tuned for Contests and weekly events. Get a chance to print your design every week*
             </p>
             <p className="mb-2 leading-relaxed text-white">
-             Click here for week 1's event 
+             Click here for printoQuest
             </p>
             <div className="flex justify-center">
               <button className="inline-flex items-center bg-white border-0 py-2 px-5 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0">
